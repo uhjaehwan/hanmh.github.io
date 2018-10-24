@@ -6,6 +6,7 @@
 * 성별: 남
 * 생년월일: 1998.04.03
 * 전공: 컴퓨터교육
+* github page : [click!!](hanmh.github.io)
 ---
 ### educational background
 * 보목초등학교
